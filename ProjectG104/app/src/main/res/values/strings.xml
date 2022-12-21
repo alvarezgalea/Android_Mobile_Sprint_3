@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProjectG104</string>
+
+    // Strings MainActivity
+    <string name="btn_init">ENTRAR</string>
+    <string name="text_info_tittle1">Bienvenidos a tu Tienda</string>
+    <string name="text_info_tittle2">PET SHOP</string>
+    <string name="text_info_tittle3">Por favor haga click en el boton ENTRAR:</string>
+
+
+    // Strings MainActivity2
+    <string name="btn_info_product1">INFO</string>
+    <string name="btn_info_product2">INFO</string>
+    <string name="btn_info_product3">INFO</string>
+    <string name="text_product1">Producto 1</string>
+    <string name="text_product2">Producto 2</string>
+    <string name="text_product3">Producto 3</string>
+    <string name="text_title_home">PRODUCTOS</string>
+
+    // Strings MainActivity3
+    <string name="btn_info_product">VOLVER</string>
+    <string name="title_activity_maps_google">MapsGoogle</string>
+
+    //String Registros
+    <string name="text_register_tittle">REGISTRO USUARIO</string>
+    <string name="text_register_description">Por favor introduzca su usuario y contraseña para registrar:</string>
+    <string name="btn_register_registrar">REGISTRAR</string>
+    <string name="btn_register_back">ATRAS</string>
+
+    //String Activity Login
+    <string name="text_login_tittle">LOGIN</string>
+    <string name="text_Login_email">Email</string>
+    <string name="text_Login_contrasena">Contraseña</string>
+    <string name="btn_Login_ingresar">INGRESAR</string>
+    <string name="btn_Login_registro">REGISTRO</string>
+
+
+</resources>
