@@ -20,29 +20,13 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView4"
-                android:layout_width="396dp"
-                android:layout_height="87dp"
-                android:gravity="center"
-                android:textColor="#000000"
-                android:textSize="30dp"
-                android:text="@string/text_info_tittle1" />
-
-            <TextView
                 android:id="@+id/textView5"
                 android:layout_width="396dp"
-                android:layout_height="87dp"
+                android:layout_height="164dp"
                 android:gravity="center"
+                android:text="@string/text_info_tittle2"
                 android:textColor="#FFFFFF"
-                android:textSize="60dp"
-                android:text="@string/text_info_tittle2" />
-
-            <TextView
-                android:id="@+id/textView6"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000000"
-                android:text="@string/text_info_tittle3" />
+                android:textSize="60dp" />
 
             <Button
                 android:id="@+id/btnInit"
